@@ -1,0 +1,14 @@
+E:\Codegym\c# start\Doitien\bin\Debug\net8.0\Doitien.exe
+E:\Codegym\c# start\Doitien\bin\Debug\net8.0\Doitien.deps.json
+E:\Codegym\c# start\Doitien\bin\Debug\net8.0\Doitien.runtimeconfig.json
+E:\Codegym\c# start\Doitien\bin\Debug\net8.0\Doitien.dll
+E:\Codegym\c# start\Doitien\bin\Debug\net8.0\Doitien.pdb
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\Doitien.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\Doitien.AssemblyInfoInputs.cache
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\Doitien.AssemblyInfo.cs
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\Doitien.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\Doitien.dll
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\refint\Doitien.dll
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\Doitien.pdb
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\Doitien.genruntimeconfig.cache
+E:\Codegym\c# start\Doitien\obj\Debug\net8.0\ref\Doitien.dll
